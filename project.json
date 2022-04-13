@@ -1,5 +1,4 @@
 {
-  "version": "1.0.0-*",
   "dependencies": {
     "Microsoft.CodeAnalysis.CSharp.Workspaces": "1.0.0",
     "Microsoft.Composition": "1.0.30",
@@ -9,14 +8,4 @@
     "Umbraco.Cms: "9.4.2",
     "Microsoft.Dnx.Compilation.CSharp.Common": "1.0.0-rc1-final"
   },
-  "frameworks": {
-    "dnx451": {
-      "frameworkAssemblies": {
-        "System.Globalization": ""
-      }
-    },
-    "dnxcore50": {
-      "dependencies": {}
-    }
-  }
 }
