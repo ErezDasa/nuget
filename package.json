@@ -18,5 +18,6 @@
   "homepage": "https://github.com/stereobooster/package.json#readme",
   "dependencies": {
     "markdown-toc": "^1.2.0"
+    "Umbraco.Cms": "9.4.2"
   }
 }
