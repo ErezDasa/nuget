@@ -6,8 +6,8 @@
     "Microsoft.Dnx.Runtime": "1.0.0-rc1-final",
     "Microsoft.Dnx.Compilation": "1.0.0-rc1-final",
     "Microsoft.Dnx.Compilation.CSharp": "1.0.0-rc1-final",
-    "Microsoft.Dnx.Compilation.CSharp.Common": "1.0.0-rc1-final",
-    "Umbraco.Cms: "9.4.2"
+    "Umbraco.Cms: "9.4.2",
+    "Microsoft.Dnx.Compilation.CSharp.Common": "1.0.0-rc1-final"
   },
   "frameworks": {
     "dnx451": {
