@@ -1,2 +1,5 @@
 
-    <PackageReference Include="Umbraco.Cms" Version="9.4.2" />
+<PackageReference Include="Umbraco.Cms" Version="9.4.2" />
+<PackageReference Include="Umbraco.Cms.Web.BackOffice" Version="9.4.3" />
+<PackageReference Include="Serilog.AspNetCore" Version="5.0.0" />
+<PackageReference Include="Takenet.Iris.Common" Version="2.90.719" />
