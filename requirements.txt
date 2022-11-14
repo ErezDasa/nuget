@@ -68,13 +68,13 @@ eth-abi==2.1.1
     # via
     #   eth-account
     #   web3
-eth-account==0.5.5
+eth-account==0.5.9
     # via web3
 eth-hash[pycryptodome]==0.3.2
     # via
     #   eth-utils
     #   web3
-eth-keyfile==0.5.1
+eth-keyfile==0.6.0
     # via eth-account
 eth-keys==0.3.3
     # via
