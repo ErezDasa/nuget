@@ -1,0 +1,14 @@
+{
+    "dependencies": {
+        "Umbraco.Cms" : "9.4.2"
+    },
+    "frameworks" : {
+        "TxM" : {}
+    },
+    "runtimes" : {
+        "RID": {}
+    },
+    "supports" : {
+        "CompatibilityProfile" : {}
+    }
+}
