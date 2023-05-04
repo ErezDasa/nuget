@@ -100,7 +100,7 @@ eth-utils==1.10.0
     #   web3
 flaky==3.7.0
     # via -r requirements.in
-flask==1.0.2
+flask==2.2.5
     # via functions-framework
 functions-framework==2.2.1
     # via -r requirements.in
