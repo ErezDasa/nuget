@@ -259,7 +259,7 @@ pytz==2021.1
     #   google-api-core
 pyyaml==5.4.1
     # via libcst
-requests==2.26.0
+requests==2.31.0
     # via
     #   -r requirements.in
     #   datadog
