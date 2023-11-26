@@ -64,7 +64,7 @@ decorator==5.1.0
     #   ipython
 deprecation==2.1.0
     # via cloudevents
-eth-abi==2.1.1
+eth-abi==4.2.0
     # via
     #   eth-account
     #   web3
