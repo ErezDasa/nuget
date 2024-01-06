@@ -231,7 +231,7 @@ pycares==4.0.0
     # via aiodns
 pycparser==2.20
     # via cffi
-pycryptodome==3.10.1
+pycryptodome==3.19.1
     # via
     #   eth-hash
     #   eth-keyfile
