@@ -139,7 +139,7 @@ hexbytes==0.2.2
     #   eth-account
     #   eth-rlp
     #   web3
-idna==3.2
+idna==3.7
     # via
     #   requests
     #   yarl
