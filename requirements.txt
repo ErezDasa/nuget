@@ -132,7 +132,7 @@ grpcio==1.37.0
     #   pubsub
 grpcio-tools==1.32.0
     # via -r requirements.in
-gunicorn==20.1.0
+gunicorn==22.0.0
     # via functions-framework
 hexbytes==0.2.2
     # via
