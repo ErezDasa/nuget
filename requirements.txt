@@ -208,7 +208,7 @@ prompt-toolkit==3.0.20
     # via ipython
 proto-plus==1.19.0
     # via google-cloud-pubsub
-protobuf==3.15.3
+protobuf==4.25.8
     # via
     #   google-api-core
     #   googleapis-common-protos
@@ -227,7 +227,7 @@ pyasn1==0.4.8
     #   rsa
 pyasn1-modules==0.2.8
     # via google-auth
-pycares==4.0.0
+pycares==4.9.0
     # via aiodns
 pycparser==2.20
     # via cffi
@@ -308,7 +308,7 @@ typing-extensions==3.10.0.2
     #   yarl
 typing-inspect==0.7.1
     # via libcst
-urllib3==1.26.6
+urllib3==2.5.0
     # via requests
 uuid-utils @ git+ssh://git@github.com/curv85/uuid-utils.git@v1.0.7
     # via
